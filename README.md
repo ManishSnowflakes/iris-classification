@@ -1,4 +1,4 @@
-# Iris Classification Project
+# Iris Classification
 
 This project classifies iris flowers into species using the K-Nearest Neighbors (KNN) algorithm. The dataset contains features like sepal length, sepal width, petal length, and petal width.
 
